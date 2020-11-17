@@ -1,2 +1,4 @@
 # AurelienBerthe_4_12112020
- Projet 4 : Optimiser un site web existant ; dans le cadre mon parcours de formation au développement web avec OpenClassrooms
+Suite de mon projet 4 avec la version améliorée du site
+
+Sequel of my fourth project with the optimized version of the site
